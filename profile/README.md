@@ -46,7 +46,7 @@ Selected projects from earlier quarters, shown with the authors' work and commit
   </tr>
   <tr>
     <td width="240">
-      <a href="https://github.com/uchicago-dsi-bayesianml/au25-chord-progression-hmm"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-chord-progression-hmm.jpg" width="220" alt="Heatmap of chord transition probabilities in major keys"></a>
+      <a href="https://github.com/uchicago-dsi-bayesianml/au25-chord-progression-hmm"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-chord-progression-hmm.jpg" width="220" alt="Piano roll of a song the project generated: melody, bridge and predicted piano accompaniment"></a>
     </td>
     <td>
       <b><a href="https://github.com/uchicago-dsi-bayesianml/au25-chord-progression-hmm">Bayesian and Neural Approaches for Chord Generation in Pop Music</a></b><br>
