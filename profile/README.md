@@ -54,6 +54,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       Chord progressions in 909 pop songs, predicted with Markov chains over absolute and functional chords, a Bayesian HMM with a key-aware prior fit by Gibbs sampling, and a duration-modeling variant, all generating playable MIDI, next to an LSTM that writes piano accompaniment from a melody.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/au25-nfl-player-movement"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-nfl-player-movement.jpg" width="220" alt="Posterior predictive density of next positions laid over the observed density"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/au25-nfl-player-movement">Bayesian Kinematic Models of NFL Player Movement</a></b><br>
+      Autumn 2025 · Mitch Verhelle, Richard Huang, Claire Fenton<br><br>
+      Constant-acceleration physics as the mean, learned noise around it in PyMC, position-group hierarchies for the spread, and a Bayesian logistic regression for pass completion, with posterior predictive cones and heatmaps animated on the field. Shown with a staff section on reporting evidence for every model compared.
+    </td>
+  </tr>
 </table>
 
 ## Resources
