@@ -56,7 +56,7 @@ Selected projects from earlier quarters, shown with the authors' work and commit
   </tr>
   <tr>
     <td width="240">
-      <a href="https://github.com/uchicago-dsi-bayesianml/au25-nfl-player-movement"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-nfl-player-movement.jpg" width="220" alt="Posterior predictive density of next positions laid over the observed density"></a>
+      <a href="https://github.com/uchicago-dsi-bayesianml/au25-nfl-player-movement"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-nfl-player-movement.gif" width="220" alt="Animated play: heatmaps of where each defender is predicted to be next, as the pass is thrown"></a>
     </td>
     <td>
       <b><a href="https://github.com/uchicago-dsi-bayesianml/au25-nfl-player-movement">Bayesian Kinematic Models of NFL Player Movement</a></b><br>
