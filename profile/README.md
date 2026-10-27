@@ -24,6 +24,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       A conditional VAE trained on 55,000 labeled faces ages or de-ages a photo while keeping the person recognizable. Most of the work went into bringing new photos into the training distribution: eye alignment, background masking, and brightness and histogram matching.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/wi25-bayesian-book-rec"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/wi25-bayesian-book-rec.jpg" width="220" alt="Histogram of ratings per reader in the Book-Crossing data"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/wi25-bayesian-book-rec">Book Recommendation System Using Bayesian Machine Learning</a></b><br>
+      Winter 2025 · Daniel Sa, Samuel Fisher, Hyunji Kim, Jazil Kalim<br><br>
+      A hierarchical Poisson matrix factorization in PyMC, fit with NUTS and with ADVI, whose posterior samples drive an uncertainty-aware ranking rule, behind a Streamlit app. Shown with a staff section on what to learn from it, including a subsampling mistake that is easy to make.
+    </td>
+  </tr>
 </table>
 
 ## Resources
