@@ -64,6 +64,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       Constant-acceleration physics as the mean, learned noise around it in PyMC, position-group hierarchies for the spread, and a Bayesian logistic regression for pass completion, with posterior predictive cones and heatmaps animated on the field. Shown with a staff section on reporting evidence for every model compared.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/sp25-biscuit-anomaly-detection"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp25-biscuit-anomaly-detection.jpg" width="220" alt="Six defective biscuits: misshapen, colored, and one with a metal nut baked in"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/sp25-biscuit-anomaly-detection">Industrial Biscuit Defect Detection</a></b><br>
+      Spring 2025 · Rithik Alluri, Alex Lee, Zimeng Huang, Manas Vemuri<br><br>
+      Four generative models trained only on good biscuits, an autoencoder, a VAE, a DCGAN with latent optimization and a Vision Transformer VAE, flag defects by reconstruction error, and the VAE's latent space separates harmless misshapen biscuits from dangerous ones. Shown with a staff section on crediting borrowed code and reporting the numbers the code produced.
+    </td>
+  </tr>
 </table>
 
 ## Resources
