@@ -34,6 +34,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       A hierarchical Poisson matrix factorization in PyMC, fit with NUTS and with ADVI, whose posterior samples drive an uncertainty-aware ranking rule, behind a Streamlit app. Shown with a staff section on what to learn from it, including a subsampling mistake that is easy to make.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/wi25-sdxl-conan-lora"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/wi25-sdxl-conan-lora.jpg" width="220" alt="A character in a dark coat drawn in anime style"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/wi25-sdxl-conan-lora">Fine-Tuning SDXL with LoRA for Conan Image Generation</a></b><br>
+      Winter 2025 · Yifei Wang, Xinyi Jiang, Ke Wang, Maxine Wu<br><br>
+      Stable Diffusion XL taught the drawing style of one anime series with a 60 MB low-rank adapter, a tuning log with reasons, an FID comparison, and a hand-written derivation of the DDPM objective. Shown with a staff section on crediting borrowed pieces and reporting metrics properly.
+    </td>
+  </tr>
 </table>
 
 ## Resources
