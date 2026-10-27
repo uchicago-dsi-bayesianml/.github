@@ -44,6 +44,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       Stable Diffusion XL taught the drawing style of one anime series with a 60 MB low-rank adapter, a tuning log with reasons, an FID comparison, and a hand-written derivation of the DDPM objective. Shown with a staff section on crediting borrowed pieces and reporting metrics properly.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/au25-chord-progression-hmm"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-chord-progression-hmm.jpg" width="220" alt="Heatmap of chord transition probabilities in major keys"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/au25-chord-progression-hmm">Bayesian and Neural Approaches for Chord Generation in Pop Music</a></b><br>
+      Autumn 2025 · Michelle Peng, Luna Lu, Wen Yao<br><br>
+      Chord progressions in 909 pop songs, predicted with Markov chains over absolute and functional chords, a Bayesian HMM with a key-aware prior fit by Gibbs sampling, and a duration-modeling variant, all generating playable MIDI, next to an LSTM that writes piano accompaniment from a melody.
+    </td>
+  </tr>
 </table>
 
 ## Resources
