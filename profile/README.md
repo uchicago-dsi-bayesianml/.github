@@ -134,6 +134,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       A β-VAE with 16 latent dimensions trained on 12,856 UT Zappos50K sneaker photos at 64 × 64, with KL annealing, eight latent-space diagnostics and a slider-driven designer in a notebook and a small web page. Shown with a staff section on reporting what a figure shows rather than what you hoped, calibrating β to the scale of the loss, and measuring an improvement on held-out data.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/wi26-sepsis-progression-hmm"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/wi26-sepsis-icu-monitor.png" width="220" alt="A drawn bedside ICU monitor showing three traces, an ECG in gold, a pulse wave in teal and a blood-pressure wave in red, with an IV bag beside it"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/wi26-sepsis-progression-hmm">Bayesian Modeling of Sepsis Progression in ICU Patients</a></b><br>
+      Winter 2026 · Ryan Abdelrahim, Collin Kim, Yuta Kobayashi, Hoon Yum, Nick Thompson<br><br>
+      Two hidden Markov models of sepsis severity on 1,502 MIMIC-IV ICU stays: an hmmlearn baseline, and a Bayesian HMM in PyMC with a hand-written forward algorithm, treatment-dependent transitions and ADVI, driving a decision-support layer that compares treatments and delays. Shown with a staff section on a treatment effect built into the state definition, counterfactuals outside the data, in-sample validation, and state posteriors that are never uncertain.
+    </td>
+  </tr>
 </table>
 
 ## Resources
