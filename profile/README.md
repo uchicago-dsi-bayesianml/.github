@@ -84,6 +84,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       Hierarchical Bayesian matrix factorization of Last.fm play counts in PyMC, fit with variational inference after NUTS proved too slow for the full data, with a clear account of what ADVI buys and costs. Shown with a staff section on using the posterior you computed and measuring recommendations, not just regression error.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/sp25-realsight-deepfake-detection"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp25-realsight-deepfake-detection.jpg" width="220" alt="Title slide of RealSight: a fingerprint over a wall of code"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/sp25-realsight-deepfake-detection">RealSight: Probabilistic Deepfake Detection</a></b><br>
+      Spring 2025 · Suyog Mahale, Zeel Patel<br><br>
+      A pipeline from a YouTube URL to a forensic report: frame suspicion from a deepfake detector with Monte Carlo dropout, lip motion tracked against Whisper's word timestamps, BERT perplexity of the transcript, and a PyMC fusion with a credible interval. Shown as the authors' slides, because the code is private while they develop it further.
+    </td>
+  </tr>
 </table>
 
 ## Resources
