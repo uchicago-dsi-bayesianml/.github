@@ -174,6 +174,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       A three-state Gaussian hidden Markov model over resource telemetry from a month of Google's Borg cluster traces, fit by stochastic variational inference in NumPyro with the hidden states enumerated exactly, decoded with a hand-written forward filter and Viterbi, and checked against where tasks were killed, with a teammate's NUTS run on the marginalized model alongside. Shown with a staff section on a transition matrix too flat to make the HMM more than a mixture, a kill-row validation that scores the label's own footprint, a training loop that saw only the first ten windows of each task, and a hierarchy that stayed on paper.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/wi26-turbofan-rul"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/wi26-turbofan-engine.png" width="220" alt="A drawn turbofan engine seen from the front, its teal fan blades swept around a cream spinner with a gold spiral, one blade tinted red, and a gold wrench lying beside it"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/wi26-turbofan-rul">Predictive Maintenance for Aircraft Engines: RUL Estimation</a></b><br>
+      Winter 2026 · Adi Singh, Eduardo Tovilla Rivera, Mukul Ramesh, Ryan Chen, William Niu<br><br>
+      Models of the remaining useful life of NASA's simulated turbofan engines (C-MAPSS FD001), one per team member: a hierarchical Student-t regression sampled with NUTS in PyMC, a dynamic Bayesian network and an unscented Kalman filter, a linear Kalman filter beside a random-forest ensemble, Prophet, and a CNN, attention and LSTM network with Monte Carlo dropout whose labels start at an onset found by a hand-written Bayesian online changepoint detector. Shown with a staff section on swapped constants in the benchmark's score, a network result chosen on the test set and scored against rewritten labels, a random forest presented as a Bayesian time-series model, and a Kalman-filter grid search that cannot change anything.
+    </td>
+  </tr>
 </table>
 
 ## Resources
