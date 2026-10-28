@@ -76,7 +76,7 @@ Selected projects from earlier quarters, shown with the authors' work and commit
   </tr>
   <tr>
     <td width="240">
-      <a href="https://github.com/uchicago-dsi-bayesianml/sp25-lastfm-bayesian-recommender"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp25-lastfm-bayesian-recommender.jpg" width="220" alt="Cloud of genre tags written by Last.fm listeners: rock, pop, electronic, indie, and hundreds more"></a>
+      <a href="https://github.com/uchicago-dsi-bayesianml/sp25-lastfm-bayesian-recommender"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp25-lastfm-tag-cloud.jpg" width="220" alt="Cloud of genre tags written by Last.fm listeners: rock, pop, electronic, indie, and hundreds more"></a>
     </td>
     <td>
       <b><a href="https://github.com/uchicago-dsi-bayesianml/sp25-lastfm-bayesian-recommender">Personalized Music Recommendation with Bayesian Matrix Factorization</a></b><br>
