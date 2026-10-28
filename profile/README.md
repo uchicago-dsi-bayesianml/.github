@@ -116,7 +116,7 @@ Selected projects from earlier quarters, shown with the authors' work and commit
   </tr>
   <tr>
     <td width="240">
-      <a href="https://github.com/uchicago-dsi-bayesianml/au25-nsf-grant-language"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-nsf-grant-language.jpg" width="220" alt="Cloud of the vocabulary of NSF grant abstracts: community, climate, energy, students, quantum, ecosystem, and hundreds more"></a>
+      <a href="https://github.com/uchicago-dsi-bayesianml/au25-nsf-grant-language"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-nsf-logo.png" width="220" alt="The National Science Foundation logo"></a>
     </td>
     <td>
       <b><a href="https://github.com/uchicago-dsi-bayesianml/au25-nsf-grant-language">NSF Grant Data Analysis: Did the Language of Funded Research Change in 2025?</a></b><br>
