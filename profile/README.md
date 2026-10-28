@@ -104,6 +104,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       ACE-Step, an open text-to-music diffusion model, fine-tuned with LoRA on 200 five-second Jamendo clips, behind a <a href="https://import-ariel.github.io/bayes_beats/">small site</a> where a picture picks a tune. A generative AI project shown for its engineering and its candor: the variational layer the team planned was not built, and the staff section says what else the write-up promises that the code does not do.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/au25-arena-preference-regression"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-arena-preference-regression.jpg" width="220" alt="Cloud of the things people asked the chatbots: logic puzzles, travel itineraries, Python code, jokes, and Model A against Model B"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/au25-arena-preference-regression">Conversation Analysis: What Makes a Chatbot Win a Human Preference Vote</a></b><br>
+      Autumn 2025 · Yusen Wu, Yifei Zhou<br><br>
+      A Bayesian logistic regression in PyMC on 23,294 Chatbot Arena battles, with each side's provenance, length, LLM-read formatting flags and prompt topic entered as differences, so the intercept is position bias, plus a topic-interaction model the authors flag as overfit. Shown with a staff section on partial pooling, model identity as the missing term, and validating features you got from an LLM.
+    </td>
+  </tr>
 </table>
 
 ## Resources
