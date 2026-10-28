@@ -164,6 +164,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       Four heads on frozen Xception features for 1,952 in-the-wild images from Deepfake-Eval-2024: logistic regression, Gaussian Naive Bayes, an MC dropout network and a variational linear layer written from scratch, evaluated on whether their uncertainty marks their errors and on a reject option. Shown with a staff section on a KL-dominated variational fit, a memorizing dropout head, the missing confidence baseline, thresholds tuned on the test set, and a demo that does not compute what the notebooks did.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/wi26-borg-failure-hmm"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/wi26-borg-rack.png" width="220" alt="A drawn server rack of six units with teal status lights, the fourth unit lit red and glowing, beside a gold telemetry trace that drops and flatlines in red at the height of the failing unit"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/wi26-borg-failure-hmm">Bayesian Job Failure Prediction in Distributed Systems</a></b><br>
+      Winter 2026 · Dhawal Dixit, Jenitha Patel, RJ Xia, Sabayna Ali, Sameeksha Kini<br><br>
+      A three-state Gaussian hidden Markov model over resource telemetry from a month of Google's Borg cluster traces, fit by stochastic variational inference in NumPyro with the hidden states enumerated exactly, decoded with a hand-written forward filter and Viterbi, and checked against where tasks were killed, with a teammate's NUTS run on the marginalized model alongside. Shown with a staff section on a transition matrix too flat to make the HMM more than a mixture, a kill-row validation that scores the label's own footprint, a training loop that saw only the first ten windows of each task, and a hierarchy that stayed on paper.
+    </td>
+  </tr>
 </table>
 
 ## Resources
