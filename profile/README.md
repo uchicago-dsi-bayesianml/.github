@@ -154,6 +154,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       An encoder-decoder LSTM on the ETH/UCY pedestrian benchmark, made Bayesian two ways: MC dropout averaged over 50 passes, and a Pyro variational posterior over the output layer, with a notebook that turns the spread of predicted paths into proceed, slow or yield decisions. Shown with a staff section on a variational model whose LSTM never trained, a test evaluation that never ran, and trajectory plots drawn in the wrong coordinates.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/wi26-deepfake-uncertainty"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/wi26-deepfake-face.png" width="220" alt="A drawn head-and-shoulders silhouette in cream whose right side breaks apart into small teal, gold and red pixel blocks drifting away"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/wi26-deepfake-uncertainty">Deepfake Detection with Bayesian Uncertainty Quantification</a></b><br>
+      Winter 2026 · Anais Morales, Estella Hu, Gaoyuan Gu, Khalil He<br><br>
+      Four heads on frozen Xception features for 1,952 in-the-wild images from Deepfake-Eval-2024: logistic regression, Gaussian Naive Bayes, an MC dropout network and a variational linear layer written from scratch, evaluated on whether their uncertainty marks their errors and on a reject option. Shown with a staff section on a KL-dominated variational fit, a memorizing dropout head, the missing confidence baseline, thresholds tuned on the test set, and a demo that does not compute what the notebooks did.
+    </td>
+  </tr>
 </table>
 
 ## Resources
