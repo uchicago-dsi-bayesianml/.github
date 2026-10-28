@@ -74,6 +74,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       Four generative models trained only on good biscuits, an autoencoder, a VAE, a DCGAN with latent optimization and a Vision Transformer VAE, flag defects by reconstruction error, and the VAE's latent space separates harmless misshapen biscuits from dangerous ones. Shown with a staff section on crediting borrowed code and reporting the numbers the code produced.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/sp25-lastfm-bayesian-recommender"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp25-lastfm-bayesian-recommender.jpg" width="220" alt="Bar chart of the ten most-listened artists in the Last.fm data"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/sp25-lastfm-bayesian-recommender">Personalized Music Recommendation with Bayesian Matrix Factorization</a></b><br>
+      Spring 2025 · Peyton Nash, Apoorva Gupta, Zoe Calianos, Kirthi Rao<br><br>
+      Hierarchical Bayesian matrix factorization of Last.fm play counts in PyMC, fit with variational inference after NUTS proved too slow for the full data, with a clear account of what ADVI buys and costs. Shown with a staff section on using the posterior you computed and measuring recommendations, not just regression error.
+    </td>
+  </tr>
 </table>
 
 ## Resources
