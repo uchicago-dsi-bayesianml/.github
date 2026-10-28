@@ -144,6 +144,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       Two hidden Markov models of sepsis severity on 1,502 MIMIC-IV ICU stays: an hmmlearn baseline, and a Bayesian HMM in PyMC with a hand-written forward algorithm, treatment-dependent transitions and ADVI, driving a decision-support layer that compares treatments and delays. Shown with a staff section on a treatment effect built into the state definition, counterfactuals outside the data, in-sample validation, and state posteriors that are never uncertain.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/wi26-pedestrian-trajectory-uncertainty"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/wi26-pedestrian-crossing.png" width="220" alt="A drawn top-down street scene at night: a pedestrian at a zebra crossing with three dashed possible paths fanning across the road, one of them red and heading toward a yellow car approaching with its headlights on"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/wi26-pedestrian-trajectory-uncertainty">Bayesian Trajectory Prediction for Autonomous Driving Safety</a></b><br>
+      Winter 2026 · Amulya Rayasam, Haiyang Hu, Ian Kidwell, Khadija Shuaib, Nikhil Sharma<br><br>
+      An encoder-decoder LSTM on the ETH/UCY pedestrian benchmark, made Bayesian two ways: MC dropout averaged over 50 passes, and a Pyro variational posterior over the output layer, with a notebook that turns the spread of predicted paths into proceed, slow or yield decisions. Shown with a staff section on a variational model whose LSTM never trained, a test evaluation that never ran, and trajectory plots drawn in the wrong coordinates.
+    </td>
+  </tr>
 </table>
 
 ## Resources
