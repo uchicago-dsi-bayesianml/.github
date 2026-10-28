@@ -114,6 +114,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       A Bayesian logistic regression in PyMC on 23,294 Chatbot Arena battles, with each side's provenance, length, LLM-read formatting flags and prompt topic entered as differences, so the intercept is position bias, plus a topic-interaction model the authors flag as overfit. Shown with a staff section on partial pooling, model identity as the missing term, and validating features you got from an LLM.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/au25-nsf-grant-language"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-nsf-grant-language.jpg" width="220" alt="Cloud of the vocabulary of NSF grant abstracts: community, climate, energy, students, quantum, ecosystem, and hundreds more"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/au25-nsf-grant-language">NSF Grant Data Analysis: Did the Language of Funded Research Change in 2025?</a></b><br>
+      Autumn 2025 · Riley Morrison, Evan Fantozzi, Teddy Kolios<br><br>
+      On 82,000 NSF award abstracts from 2019 to 2025: LDA topics per division with hand-written labels, an index of flagged words, a PyMC changepoint model on the yearly drift of abstract embeddings, and a Bayesian regression of which awards were terminated. Shown with a staff section on baselines that contain their own test year, priors on the wrong scale, and reading a changepoint posterior that sits on the boundary.
+    </td>
+  </tr>
 </table>
 
 ## Resources
