@@ -94,6 +94,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       A pipeline from a YouTube URL to a forensic report: frame suspicion from a deepfake detector with Monte Carlo dropout, lip motion tracked against Whisper's word timestamps, BERT perplexity of the transcript, and a PyMC fusion with a credible interval. Shown as the authors' slides, because the code is private while they develop it further.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/sp25-bayes-beats"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp25-bayes-beats.jpg" width="220" alt="A pianist in headphones at a grand piano, in neon colors: the project's own banner art"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/sp25-bayes-beats">Bayes' Beats: Music from the Mood of an Image</a></b><br>
+      Spring 2025 · Ariel Azria, Gabe Barrett, Kwaku Ofori-Atta, Danielle Rosenthal<br><br>
+      ACE-Step, an open text-to-music diffusion model, fine-tuned with LoRA on 200 five-second Jamendo clips, behind a <a href="https://import-ariel.github.io/bayes_beats/">small site</a> where a picture picks a tune. A generative AI project shown for its engineering and its candor: the variational layer the team planned was not built, and the staff section says what else the write-up promises that the code does not do.
+    </td>
+  </tr>
 </table>
 
 ## Resources
