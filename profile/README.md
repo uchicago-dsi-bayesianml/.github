@@ -86,7 +86,7 @@ Selected projects from earlier quarters, shown with the authors' work and commit
   </tr>
   <tr>
     <td width="240">
-      <a href="https://github.com/uchicago-dsi-bayesianml/sp25-realsight-deepfake-detection"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp25-realsight-deepfake-detection.jpg" width="220" alt="Title slide of RealSight: a fingerprint over a wall of code"></a>
+      <a href="https://github.com/uchicago-dsi-bayesianml/sp25-realsight-deepfake-detection"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp25-realsight-deepfake-frame.jpg" width="220" alt="A frame from the deepfake video the system analyzed: a synthetic Morgan Freeman against a black background"></a>
     </td>
     <td>
       <b><a href="https://github.com/uchicago-dsi-bayesianml/sp25-realsight-deepfake-detection">RealSight: Probabilistic Deepfake Detection</a></b><br>
