@@ -106,7 +106,7 @@ Selected projects from earlier quarters, shown with the authors' work and commit
   </tr>
   <tr>
     <td width="240">
-      <a href="https://github.com/uchicago-dsi-bayesianml/au25-arena-preference-regression"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-arena-preference-regression.jpg" width="220" alt="Cloud of the things people asked the chatbots: logic puzzles, travel itineraries, Python code, jokes, and Model A against Model B"></a>
+      <a href="https://github.com/uchicago-dsi-bayesianml/au25-arena-preference-regression"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/au25-arena-two-agents.jpg" width="220" alt="Two chatbots, one teal and one gold, exchanging speech bubbles, with a question mark between them: which answer was better?"></a>
     </td>
     <td>
       <b><a href="https://github.com/uchicago-dsi-bayesianml/au25-arena-preference-regression">Conversation Analysis: What Makes a Chatbot Win a Human Preference Vote</a></b><br>
