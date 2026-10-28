@@ -184,6 +184,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       Models of the remaining useful life of NASA's simulated turbofan engines (C-MAPSS FD001), one per team member: a hierarchical Student-t regression sampled with NUTS in PyMC, a dynamic Bayesian network and an unscented Kalman filter, a linear Kalman filter beside a random-forest ensemble, Prophet, and a CNN, attention and LSTM network with Monte Carlo dropout whose labels start at an onset found by a hand-written Bayesian online changepoint detector. Shown with a staff section on swapped constants in the benchmark's score, a network result chosen on the test set and scored against rewritten labels, a random forest presented as a Bayesian time-series model, and a Kalman-filter grid search that cannot change anything.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/wi26-fall-detection-hmm"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/wi26-fall-alert.png" width="220" alt="A drawn older person with grey hair tipping forward toward the floor as a cane falls away, four glowing teal tags at the chest, belt and both ankles, and a gold bell inside a house outline sending out red alert waves"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/wi26-fall-detection-hmm">Smart Home Fall Detection for Elderly Safety</a></b><br>
+      Winter 2026 · Lexi Lin, Xiaojing Fang<br><br>
+      Per-activity Gaussian hidden Markov models, a random forest smoothed by Viterbi decoding over an activity transition matrix, a hidden semi-Markov model with Poisson durations and a weighted bidirectional LSTM, compared on 25 recordings of four body-worn location tags from UCI's Localization Data for Person Activity, with a Streamlit dashboard that raises an ensemble fall alarm. Shown with a staff section on a smoother that cuts false alarms from 155 to 4 per hour, which the team never measured, test chunks and durations taken from the labels, a threshold tuned on the test folds, and falls a model can find by where in the room they happen.
+    </td>
+  </tr>
 </table>
 
 ## Resources
