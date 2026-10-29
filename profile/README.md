@@ -224,6 +224,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       Bayesian Delegation agents in the gym-cooking kitchen of Wu et al. (2021), extended with a continuous social value orientation per cook that shapes task allocation and idling, and a particle filter with which each cook infers its partner's orientation from its moves, shown on three recorded salad episodes with posterior trajectories. Shown with a staff section on a cos/sin utility that is never switched on, a hand-built likelihood that reads the angle almost only from standing still and so places a 45-degree partner near 85, a partner estimate seeded with the true answer, and single unseeded runs whose figures and table come from different episodes.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/sp26-what-can-i-cook-tonight"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp26-open-fridge-recipe.png" width="220" alt="A drawn open fridge lit from inside, with a carton of eggs, a tomato, an onion, broccoli and a wedge of cheese on its shelves and a bottle in the door, beside a tilted recipe card with a gold dish, two ingredient lines ticked in teal and one circled in red"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/sp26-what-can-i-cook-tonight">What Can I Cook Tonight?</a></b><br>
+      Spring 2026 · Elaine Wang, Kevin Fan, Qixin Cui, Yizhuo Li, Zhetao Zhang<br><br>
+      A recipe recommender that turns a fridge photo into ingredients with a pre-trained YOLOv5 detector and ranks 53,573 Food.com recipes by coverage, a shrunk rating and the flavor topics of an LDA fit by scikit-learn's variational Bayes, with bootstrap refits for uncertainty and a Gradio app. Shown with a staff section on a flavor-alignment term that is 1.0 for every demo recommendation and lowers held-out ranking where it varies, a single-topic pantry posterior that is one-hot where LDA's own is not, a reported confidence that is a near-zero bootstrap spread, and a recommender and detector that are never evaluated.
+    </td>
+  </tr>
 </table>
 
 ## Resources
