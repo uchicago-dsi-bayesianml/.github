@@ -204,6 +204,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       Ordered-probit models of latent chess skill fit to 5.2 million Lichess games between 21,488 blitz players, with hand-written JAX samplers (data augmentation, forward filtering and backward sampling, and a two-skill model of board strength and clock discipline) compared with the Lichess Glicko-2 ratings on a two-month holdout. Shown with a staff section on a headline win that scores games selected by how they ended, a "same data" comparison in which the model sees a fifth of the cohort's games while the ratings keep updating, a single chain whose drift estimate is still falling, and a simultaneous skill update that understates posterior spread.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/su26-duolingo-slam-uncertainty"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/su26-language-flashcards.png" width="220" alt="Three drawn vocabulary flashcards labelled FR, EN and ES reading bonjour, hello and hola, the French word underlined with a red squiggle and the Spanish one ticked in teal, beside a gold speech bubble holding a question mark"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/su26-duolingo-slam-uncertainty">Uncertainty-Aware Modeling of Second-Language Acquisition</a></b><br>
+      Summer 2026 · Shane Dunkle, Richard Pollitt<br><br>
+      A hierarchical Bayesian logistic regression of Duolingo learners' word-level errors, fit by minibatch ADVI in PyMC to 927,000 French-course tokens with pooled learner and word effects, random slopes and a low-rank interaction, alongside a scikit-learn model ladder, a cross-course transfer study, an abstention rule and a demo of the posterior draws. Shown with a staff section on headline numbers from Colab notebooks that are not in the repository, extensions chosen on the dev set they are scored on, history features that see the labels of the same answer, and an abstention threshold described as a guarantee that a simulation puts over budget a third of the time.
+    </td>
+  </tr>
 </table>
 
 ## Resources
