@@ -214,6 +214,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       A hierarchical Bayesian logistic regression of Duolingo learners' word-level errors, fit by minibatch ADVI in PyMC to 927,000 French-course tokens with pooled learner and word effects, random slopes and a low-rank interaction, alongside a scikit-learn model ladder, a cross-course transfer study, an abstention rule and a demo of the posterior draws. Shown with a staff section on headline numbers from Colab notebooks that are not in the repository, extensions chosen on the dev set they are scored on, history features that see the labels of the same answer, and an abstention threshold described as a guarantee that a simulation puts over budget a third of the time.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/sp26-svo-cooking-coordination"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp26-chefs-svo-dial.png" width="220" alt="Two drawn chefs on a tiled kitchen floor: one in a teal apron carries a gold salad bowl and thinks of a quarter-circle dial running from teal to red with its needle near red, while the other, in a red apron, stands with folded arms"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/sp26-svo-cooking-coordination">Inferring Social Value Orientation in Multi-Agent Cooking Coordination</a></b><br>
+      Spring 2026 · Bufan Gao, Jiabin Zou, Tianrun Wu, Yufei Mao<br><br>
+      Bayesian Delegation agents in the gym-cooking kitchen of Wu et al. (2021), extended with a continuous social value orientation per cook that shapes task allocation and idling, and a particle filter with which each cook infers its partner's orientation from its moves, shown on three recorded salad episodes with posterior trajectories. Shown with a staff section on a cos/sin utility that is never switched on, a hand-built likelihood that reads the angle almost only from standing still and so places a 45-degree partner near 85, a partner estimate seeded with the true answer, and single unseeded runs whose figures and table come from different episodes.
+    </td>
+  </tr>
 </table>
 
 ## Resources
