@@ -234,6 +234,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       A recipe recommender that turns a fridge photo into ingredients with a pre-trained YOLOv5 detector and ranks 53,573 Food.com recipes by coverage, a shrunk rating and the flavor topics of an LDA fit by scikit-learn's variational Bayes, with bootstrap refits for uncertainty and a Gradio app. Shown with a staff section on a flavor-alignment term that is 1.0 for every demo recommendation and lowers held-out ranking where it varies, a single-topic pantry posterior that is one-hot where LDA's own is not, a reported confidence that is a near-zero bootstrap spread, and a recommender and detector that are never evaluated.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/sp26-macro-regime-allocation"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp26-macro-asset-allocation.png" width="220" alt="An illustration titled Asset Allocation: a man in a suit carries a bag of money while orange arrows fan out from his feet toward an oil derrick, a briefcase, a rising bar chart, a stack of bond certificates and a house"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/sp26-macro-regime-allocation">Bayesian Regime Inference for Macro-Driven Asset Allocation</a></b><br>
+      Spring 2026 · Bosen Yang, Jingnan Chi, Kevin Long, Mike Peng<br><br>
+      A two-state Bayesian hidden Markov model of a six-ETF portfolio's monthly return, with a hand-written Gibbs sampler using forward filtering and backward sampling, beside a Markov-switching regression whose filtered regime probabilities drive a hand-set and a mean-variance allocation rule, backtested from 2011 against equal weight and 60/40. Shown with a staff section on a Bayesian model that never reaches the trades and whose smoothed probabilities would be look-ahead, a refined rule that does no better than the same optimizer without regimes, macro variables that enter no model, and log returns compounded as simple returns.
+    </td>
+  </tr>
 </table>
 
 ## Resources
