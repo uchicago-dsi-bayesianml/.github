@@ -194,6 +194,16 @@ Selected projects from earlier quarters, shown with the authors' work and commit
       Per-activity Gaussian hidden Markov models, a random forest smoothed by Viterbi decoding over an activity transition matrix, a hidden semi-Markov model with Poisson durations and a weighted bidirectional LSTM, compared on 25 recordings of four body-worn location tags from UCI's Localization Data for Person Activity, with a Streamlit dashboard that raises an ensemble fall alarm. Shown with a staff section on a smoother that cuts false alarms from 155 to 4 per hour, which the team never measured, test chunks and durations taken from the labels, a threshold tuned on the test folds, and falls a model can find by where in the room they happen.
     </td>
   </tr>
+  <tr>
+    <td width="240">
+      <a href="https://github.com/uchicago-dsi-bayesianml/su26-glicko2-audit"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/su26-chess-king-clock.png" width="220" alt="A drawn cream chess king with a gold cross standing on a dark chessboard beside a chess clock, its left flag up in teal and its right dial's red flag about to fall"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/uchicago-dsi-bayesianml/su26-glicko2-audit">Beyond Glicko-2: Hierarchical Bayesian Estimation of Latent Chess Skill</a></b><br>
+      Summer 2026 · John Henry Oliphant<br><br>
+      Ordered-probit models of latent chess skill fit to 5.2 million Lichess games between 21,488 blitz players, with hand-written JAX samplers (data augmentation, forward filtering and backward sampling, and a two-skill model of board strength and clock discipline) compared with the Lichess Glicko-2 ratings on a two-month holdout. Shown with a staff section on a headline win that scores games selected by how they ended, a "same data" comparison in which the model sees a fifth of the cohort's games while the ratings keep updating, a single chain whose drift estimate is still falling, and a simultaneous skill update that understates posterior spread.
+    </td>
+  </tr>
 </table>
 
 ## Resources
