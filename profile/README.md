@@ -216,7 +216,7 @@ Selected projects from earlier quarters, shown with the authors' work and commit
   </tr>
   <tr>
     <td width="240">
-      <a href="https://github.com/uchicago-dsi-bayesianml/sp26-svo-cooking-coordination"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp26-chefs-svo-dial.png" width="220" alt="Two drawn chefs on a tiled kitchen floor: one in a teal apron carries a gold salad bowl and thinks of a quarter-circle dial running from teal to red with its needle near red, while the other, in a red apron, stands with folded arms"></a>
+      <a href="https://github.com/uchicago-dsi-bayesianml/sp26-svo-cooking-coordination"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp26-svo-selfish-partner.gif" width="220" alt="An animated top-down view of the team's grid-world kitchen: a cook in a magenta shirt stands still while a cook in a blue shirt fetches, chops and plates the tomato and lettuce alone"></a>
     </td>
     <td>
       <b><a href="https://github.com/uchicago-dsi-bayesianml/sp26-svo-cooking-coordination">Inferring Social Value Orientation in Multi-Agent Cooking Coordination</a></b><br>
@@ -226,7 +226,7 @@ Selected projects from earlier quarters, shown with the authors' work and commit
   </tr>
   <tr>
     <td width="240">
-      <a href="https://github.com/uchicago-dsi-bayesianml/sp26-what-can-i-cook-tonight"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp26-open-fridge-recipe.png" width="220" alt="A drawn open fridge lit from inside, with a carton of eggs, a tomato, an onion, broccoli and a wedge of cheese on its shelves and a bottle in the door, beside a tilted recipe card with a gold dish, two ingredient lines ticked in teal and one circled in red"></a>
+      <a href="https://github.com/uchicago-dsi-bayesianml/sp26-what-can-i-cook-tonight"><img src="https://raw.githubusercontent.com/uchicago-dsi-bayesianml/.github/main/profile/assets/thumbs/sp26-cook-tonight-app.png" width="220" alt="A screenshot of the team's Gradio app, titled What Can I Cook Tonight?, with a photo grid of broccoli, an egg, an onion, garlic and cherry tomatoes beside a table of detected ingredients and their confidences"></a>
     </td>
     <td>
       <b><a href="https://github.com/uchicago-dsi-bayesianml/sp26-what-can-i-cook-tonight">What Can I Cook Tonight?</a></b><br>
